@@ -1,0 +1,60 @@
+{
+  "ID": 133,
+  "CreatedAt": "2023-10-01T15:45:03.406Z",
+  "UpdatedAt": "2023-10-01T15:45:03.406Z",
+  "DeletedAt": null,
+  "Name": "Academy Magic Pot",
+  "Description": "Craftable item prepared using a ritual pot.\r\nEnchanted by Raya Lucaria sorceries.\r\nConsumes FP. Throw at enemies to inflict heavy magic damage.\r\nThis pot, considered a \"faux sorcery,\" was employed to protect the academy.",
+  "Materials": [
+    {
+      "RecipeID": 133,
+      "MaterialID": 26,
+      "Quantity": 2,
+      "Material": {
+        "ID": 26,
+        "CreatedAt": "2023-10-01T13:51:03.725Z",
+        "UpdatedAt": "2023-10-01T13:51:03.725Z",
+        "DeletedAt": null,
+        "Name": "Glintstone Firefly",
+        "Description": "A firefly whose glowing tail has hardened into glintstone, widely found in Liurnia Lake.\r\nMaterial used for crafting items.\r\n\r\nAlas, now that its tail is glintstone, it can no longer beguile potential mates."
+      }
+    },
+    {
+      "RecipeID": 133,
+      "MaterialID": 48,
+      "Quantity": 1,
+      "Material": {
+        "ID": 48,
+        "CreatedAt": "2023-10-01T13:51:03.922Z",
+        "UpdatedAt": "2023-10-01T13:51:03.922Z",
+        "DeletedAt": null,
+        "Name": "Old Fang",
+        "Description": "A rarely-seen specimen of beast fang.\r\nMaterial used for crafting items.\r\nFound by hunting carnivorous beasts.\r\n\r\nThese multiple, overlapping fangs grow from a single root. Perhaps they're a vestige of the primordial crucible."
+      }
+    },
+    {
+      "RecipeID": 133,
+      "MaterialID": 53,
+      "Quantity": 1,
+      "Material": {
+        "ID": 53,
+        "CreatedAt": "2023-10-01T13:51:04.007Z",
+        "UpdatedAt": "2023-10-01T13:51:04.007Z",
+        "DeletedAt": null,
+        "Name": "Ritual Pot",
+        "Description": "This empty pot somehow mends itself when broken. Special item with greater durability than a cracked pot. \r\n\r\nEssential vessel for crafting ritual pot items. \r\n\r\nThe materials and magics sealed within deploy their effects when the pot is thrown."
+      }
+    }
+  ],
+  "CookBooks": [
+    {
+      "ID": 25,
+      "CreatedAt": "2023-10-01T16:13:27.929Z",
+      "UpdatedAt": "2023-10-01T16:13:27.929Z",
+      "DeletedAt": null,
+      "Name": "Glintstone Craftsman's Cookbook [8]",
+      "Description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Academy Magic Pot",
+      "Recipes": null
+    }
+  ]
+}

@@ -1,0 +1,1124 @@
+[
+	{
+		"name": "Academy Magic Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEnchanted by Raya Lucaria sorceries.\r\nConsumes FP. Throw at enemies to inflict heavy magic damage.\r\nThis pot, considered a \"faux sorcery,\" was employed to protect the academy.",
+		"materials": [
+			{ "quantity": 2, "name": "Glintstone Firefly" },
+			{ "quantity": 1, "name": "Old Fang" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Acid Spraymist",
+		"description": "Forbidden art of depraved perfumers.\r\nCraftable with a perfume bottle.\r\n\r\nUses FP to release an acidic mist from user's mouth, damaging armaments and temporarily lowering attack power.\r\n\r\nPerfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said.",
+		"materials": [
+			{ "quantity": 1, "name": "Altus Bloom" },
+			{ "quantity": 1, "name": "Miranda Powder" },
+			{ "quantity": 1, "name": "Formic Rock" },
+			{ "quantity": 1, "name": "Perfume Bottle" }
+		]
+	},
+	{
+		"name": "Albinauric Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEnchanted by sorceries of the Cuckoos.\r\n\r\nConsumes FP. Throw at enemies to impede recovery actions using a flask of tears for a certain duration.\r\n\r\nThe Knights of the Cuckoos do declare. Behold, thy defiled blood.\r\nUnlike any humor that flows in our grand realm.",
+		"materials": [
+			{ "quantity": 2, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Albinauric Bloodclot" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Alluring Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEnchanted with assasin incantations.\r\n\r\nConsumes FP. Throw to create a pale shadow.\r\n\r\nThe illusion will lure in and distract foes of human build outside\r\nof combat, while demi-humans will be lured in even during combat.",
+		"materials": [
+			{ "quantity": 1, "name": "Albinauric Bloodclot" },
+			{ "quantity": 5, "name": "Human Bone Shard" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Ancient Dragonbolt Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEngraved with the crest of the ancient dragon.\r\n\r\nThrow at enemies to inflict heavy lightning damage.\r\n\r\nAllows one to wield ancient drake lightning regardless of faith. The residual power of relics is a purely natural phenomenon.",
+		"materials": [
+			{ "quantity": 2, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Fulgurbloom " },
+			{ "quantity": 1, "name": "Gravel Stone" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Beastlure Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEnchanted with assassin incantations.\r\n\r\nConsumes FP. Throw to create a red shadow.\r\n\r\nThe illusion lures in beasts into attacking it. This effect does not change even during combat.",
+		"materials": [
+			{ "quantity": 1, "name": "Beast Blood" },
+			{ "quantity": 2, "name": "Hefty Beast Bone" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Bewitching Branch",
+		"description": "Tree branch blessed with an incantation of unalloyed gold.\r\nCraftable item.\r\n\r\nPierce a foe, using FP to turn them into a temporary ally.\r\n\r\nThe Empyrean Miquella is loved by many people. Indeed, he has learned very well how to compel such affection.",
+		"materials": [
+			{ "quantity": 1, "name": "Sacramental Bud" },
+			{ "quantity": 1, "name": "Miquella's Lily" }
+		]
+	},
+	{
+		"name": "Blood Grease",
+		"description": "Solidified grease made from a mixture of blood-red materials. Craftable item.\r\n\r\nCoats armament, inflicting blood loss.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Bloodrose " }
+		]
+	},
+	{
+		"name": "Bloodboil Aromatic",
+		"description": "Forbidden art of depraved perfumers.\r\nCraftable with a perfume bottle.\r\n\r\nUses FP to enter a temporary state of fervor, raising maximum attack power and stamina while also increasing damage received.\r\n\r\n\"Even upon the battlefield, do you fear being wounded? Take a good look. Your limbs are frozen stiff.\"",
+		"materials": [
+			{ "quantity": 2, "name": "Altus Bloom" },
+			{ "quantity": 1, "name": "Budding Cave Moss" },
+			{ "quantity": 1, "name": "Land Octopus Ovary" },
+			{ "quantity": 1, "name": "Arteria Leaf" },
+			{ "quantity": 1, "name": "Perfume Bottle" }
+		]
+	},
+	{
+		"name": "Bloodbone Arrow",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Bloodrose " }
+		]
+	},
+	{
+		"name": "Bloodbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Bloodrose " },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Bloodbone Bolt",
+		"description": "Bolt carved from animal bone. The tip is daubed with a blood tincture. Afflicts targets with blood loss.\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Bloodrose " }
+		]
+	},
+	{
+		"name": "Bone Arrow",
+		"description": "Arrow whittled from thin animal bones. Craftable item.\r\n\r\nThough the arrowhead is sharp indeed, it doesn't fly particularly true.",
+		"materials": [{ "quantity": 3, "name": "Thin Beast Bones" }]
+	},
+	{
+		"name": "Bone Arrow (Fletched)",
+		"description": "Arrow whittled from thin animal bones. Craftable item.\r\n\r\nThe feather fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Bone Ballista Bolt",
+		"description": "Greatbolt as large as a spear carved from stout animal bones. Craftable item.\r\n\r\nThough the tip is certainly sharp, it does not fly particularly true.",
+		"materials": [{ "quantity": 1, "name": "Hefty Beast Bone" }]
+	},
+	{
+		"name": "Bone Bolt",
+		"description": "Bolt carved from a thin animal bone. Craftable item.\r\n\r\nThough the tip is certainly sharp, it does not fly particularly true.",
+		"materials": [{ "quantity": 2, "name": "Thin Beast Bones" }]
+	},
+	{
+		"name": "Bone Dart ",
+		"description": "Animal bone sharpened into a knife for throwing.\r\nCraftable item.\r\n\r\nThrow at enemies to inflict damage.",
+		"materials": [{ "quantity": 2, "name": "Thin Beast Bones" }]
+	},
+	{
+		"name": "Bone Great Arrow",
+		"description": "Greatarrow as large as a spear whittled from stout animal bones.\r\nThough the tip is certainly sharp, it does not fly particularly true.",
+		"materials": [{ "quantity": 1, "name": "Hefty Beast Bone" }]
+	},
+	{
+		"name": "Bone Great Arrow (Fletched)",
+		"description": "Greatarrow as large as a spear whittled from stout animal bones.\r\nCraftable item.\r\nThe fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 1, "name": "Hefty Beast Bone" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Clarifying Boluses",
+		"description": "Yellow boluses made of cave moss.\r\nCraftable item.\r\n\r\nAlleviates madness buildup.\r\nMadness accumulates slowly, inflicting heavy damage and reducing FP once the threshold is reached. Take one of these in timely fashion to avoid such events.",
+		"materials": [
+			{ "quantity": 2, "name": "Dewkissed Herba" },
+			{ "quantity": 1, "name": "Crystal Cave Moss" },
+			{ "quantity": 1, "name": "Eye of Yelough" }
+		]
+	},
+	{
+		"name": "Clarifying Cured Meat",
+		"description": "Cured strip of meat, dried out after pickling in a purple medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts focus.\r\n\r\nHigher focus helps to mitigate the buildup of sleep and madness.",
+		"materials": [
+			{ "quantity": 5, "name": "Rimed Rowa" },
+			{ "quantity": 1, "name": "Sliver of Meat " },
+			{ "quantity": 1, "name": "Slumbering Egg" },
+			{ "quantity": 1, "name": "Eye of Yelough" }
+		]
+	},
+	{
+		"name": "Clarifying White Cured Meat",
+		"description": "A white sliced meat, dried out after pickling in a purple medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts focus.\r\n\r\nLasts longer than traditional cured meat, but with reduced effectiveness.",
+		"materials": [
+			{ "quantity": 5, "name": "Rimed Rowa" },
+			{ "quantity": 1, "name": "Strip of White Flesh" },
+			{ "quantity": 1, "name": "Slumbering Egg" },
+			{ "quantity": 1, "name": "Eye of Yelough" }
+		]
+	},
+	{
+		"name": "Coldbone Arrow",
+		"description": "Arrow whittled from animal bones with a frozen tip. Afflicts targets with frost.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 3, "name": "Rimed Crystal Bud" }
+		]
+	},
+	{
+		"name": "Coldbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones with a frozen tip. Afflicts targets with frost.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 3, "name": "Rimed Crystal Bud" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Coldbone Bolt",
+		"description": "Bolt carved from animal bone with a frozen tip.\r\nAfflicts targets with frost.\r\nCraftable item. \r\n\r\n ",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 3, "name": "Rimed Crystal Bud" }
+		]
+	},
+	{
+		"name": "Crystal Dart",
+		"description": "Throwing knife chiseled from impure crystal.\r\nCraftable item.\r\n\r\nConsumes FP. Throw at enemies to deal magic damage.\r\nLong ago, it is said that a golem crafter employed a similar crystal tool.",
+		"materials": [{ "quantity": 3, "name": "Cracked Crystal" }]
+	},
+	{
+		"name": "Cuckoo Glintstone",
+		"description": "Lump of broken glintstone enwreathed with magic power. A \"faux sorcery\" used by the Knights of the Cuckoo. Craftable item.\r\n\r\nLaunched straight ahead, using FP. A magic bolt springs forth from the point of impact. ",
+		"materials": [
+			{ "quantity": 1, "name": "Crystal Bud" },
+			{ "quantity": 1, "name": "Cracked Crystal" }
+		]
+	},
+	{
+		"name": "Cursed-Blood Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nDecorated with the crest of the Lord of Blood.\r\n\r\nThrow at enemies to douse them in accursed blood, causing summoned spirits to assail them with a rabid fervor.\r\n\r\nA childhood memory of the Lord of Blood.",
+		"materials": [
+			{ "quantity": 2, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Beast Blood" },
+			{ "quantity": 1, "name": "Bloodrose " },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Dappled Cured Meat",
+		"description": "Cured strip of meat, dried out after pickling in a dappled medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts immunity, robustness, and focus.",
+		"materials": [
+			{ "quantity": 5, "name": "Golden Rowa" },
+			{ "quantity": 1, "name": "Sliver of Meat " },
+			{ "quantity": 1, "name": "Budding Horn" },
+			{ "quantity": 1, "name": "Nascent Butterfly" }
+		]
+	},
+	{
+		"name": "Dappled White Cured Meat",
+		"description": "A white sliced meat, dried out after pickling in a dappled medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts immunity, robustness, and focus.\r\n\r\nLasts longer than traditional cured meat, but with reduced effectiveness.",
+		"materials": [
+			{ "quantity": 5, "name": "Golden Rowa" },
+			{ "quantity": 1, "name": "Strip of White Flesh" },
+			{ "quantity": 1, "name": "Budding Horn" },
+			{ "quantity": 1, "name": "Nascent Butterfly" }
+		]
+	},
+	{
+		"name": "Dragonwound Grease",
+		"description": "Solidified grease made from a mixture of gravels stones. Craftable item.\r\n\r\nCoats armament, granting anti-dragon effects.\r\nThis effect lasts only for a short time.\r\n\r\nWhen the dragons were born from their ancient kin, they lost their stone scales, which can now be used to cause them mortal harm.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Beast Blood" },
+			{ "quantity": 1, "name": "Gravel Stone" }
+		]
+	},
+	{
+		"name": "Drawstring Blood Grease",
+		"description": "Blistered solid grease made from a mixture of blood-red materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting blood loss, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Bloodrose " },
+			{ "quantity": 1, "name": "String " }
+		]
+	},
+	{
+		"name": "Drawstring Fire Grease",
+		"description": "Solidified grease made from a mixture of incendiary materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting fire damage, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" },
+			{ "quantity": 1, "name": "String " }
+		]
+	},
+	{
+		"name": "Drawstring Holy Grease",
+		"description": "Solidified grease made from a mixture of holy resonant materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting holy damage, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Golden Sunflower" },
+			{ "quantity": 1, "name": "String " }
+		]
+	},
+	{
+		"name": "Drawstring Lightning Grease",
+		"description": "Solidified grease made from a mixture of fulminating materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting lightning damage, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Fulgurbloom " },
+			{ "quantity": 1, "name": "String " }
+		]
+	},
+	{
+		"name": "Drawstring Magic Grease",
+		"description": "Solidified grease made from a mixture of magically resonant materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting magic damage, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Crystal Bud" },
+			{ "quantity": 1, "name": "String " }
+		]
+	},
+	{
+		"name": "Drawstring Poison Grease",
+		"description": "Solidified grease made from a mixture of poison-green materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting poison, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Poisonbloom " },
+			{ "quantity": 1, "name": "String " }
+		]
+	},
+	{
+		"name": "Drawstring Rot Grease",
+		"description": "Solidified grease made from a mixture of rotten materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting scarlet rot, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Aeonian Butterfly" }
+		]
+	},
+	{
+		"name": "Drawstring Soporific Grease",
+		"description": "Solidified grease made from a mixture of light-purple materials. Craftable item.\r\nA short string is attached to this lump.\r\n\r\nQuickly coats armament, inflicting sleep, but with a brief effect, owing to its small size.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Trina's Lily" }
+		]
+	},
+	{
+		"name": "Exalted Flesh",
+		"description": "A lump of animal flesh pickled in a medicinal solution mixed with fiery spices.\r\nCraftable item.\r\n\r\nTemporarily boosts physical attack.\r\n\r\nConsidered a delicacy in the badlands, this invigorating repast was for the exclusive benefit of those who they deem heroes.",
+		"materials": [
+			{ "quantity": 5, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Lump of Flesh" },
+			{ "quantity": 1, "name": "Hefty Beast Bone" },
+			{ "quantity": 1, "name": "Arteria Leaf" }
+		]
+	},
+	{
+		"name": "Fetid Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of effluents is sealed inside. As the mixture ferments, toxins are produced alongside a putrid stench that seeps out once ripe.\r\n\r\nThrow at enemies to cause buildup of deadly poison.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Gold-Tinged Excrement" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Fire Grease",
+		"description": "Solidified grease made from a mixture of incendiary materials. Craftable item.\r\n\r\nCoats armament, adding fire damage to attacks.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Fire Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of incendiary materials is sealed inside.\r\n\r\nThrow at enemies to inflict fire damage.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Smoldering Butterfly" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Firebone Arrow",
+		"description": "Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Firebone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is set alight before firing. Deals fire damage.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Firebone Bolt",
+		"description": "Bolt carved from animal bone. The tip is set alight before firing. Deals fire damage.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Fireproof Dried Liver",
+		"description": "Cured animal liver, dried out after pickling in a red medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts fire damage negation, improving damage mitigation against attacks imbued with fire.",
+		"materials": [
+			{ "quantity": 5, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Beast Liver" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Freezing Grease",
+		"description": "Solidified grease made from a mixture of frozen materials. Craftable item.\r\n\r\nCoats armament, inflicting frost.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Rimed Crystal Bud" }
+		]
+	},
+	{
+		"name": "Freezing Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEngraved with the crest of the Carian Royals.\r\n\r\nThrow at enemies to cause buildup of frost.\r\n\r\nOriginates from the cold, dark moon of Ranni, the Carian princess.",
+		"materials": [
+			{ "quantity": 2, "name": "Rimed Crystal Bud" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Frenzyflame Stone",
+		"description": "Ruin Fragment blessed with an incantation of the Three Fingers.\r\nCraftable item.\r\n\r\nUses FP to generate warmth, continuously restoring the HP of those who host the frenzied flame.\r\n\r\nConfers madness upon those who have not adopted the flame.\r\nTake care not to mistake this for its gentler cousin.",
+		"materials": [
+			{ "quantity": 1, "name": "Yellow Ember" },
+			{ "quantity": 1, "name": "Sanctuary Stone" }
+		]
+	},
+	{
+		"name": "Frozen Raisin",
+		"description": "Preparation of dried Rimed Rowa.\r\nCraftable item.\r\n\r\nFeed to Torrent, the spectral steed, while riding to vastly restore his HP.\r\n\r\nTorrent seems to enjoy the sensation of chewing this frozen, dried seed.",
+		"materials": [{ "quantity": 1, "name": "Rimed Rowa" }]
+	},
+	{
+		"name": "Furlcalling Finger Remedy",
+		"description": "Item for online play.\r\n(Can also be used from the Multiplayer menu.)\r\nCraftable item.\r\n\r\nReveals cooperative and competitive multiplayer signs.\r\nCo-op summoning signs will be shown in gold, while hostile summoning signs will be shown in red.\r\n\r\nMultiplayer begins when you summon a player from another world through their sign.",
+		"materials": []
+	},
+	{
+		"name": "Giantsflame Fire Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEnchanted by incantations of the Giants' Flame.\r\n\r\nConsumes FP. Throw at enemies to inflict heavy fire damage.\r\n\r\nDamage scales with faith.",
+		"materials": [
+			{ "quantity": 2, "name": "Fire Blossom" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Glowstone",
+		"description": "Polished Ruin Fragment that shines brighter than Rainbow Stone.\r\nCraftable item.\r\n\r\nEmits light from the location it is placed, illuminating surroundings.\r\nHowever, the effect is short-lived, and it lacks the diverse colors of rainbow stones.",
+		"materials": [
+			{ "quantity": 1, "name": "Ruin Fragment" },
+			{ "quantity": 1, "name": "Dewkissed Herba" }
+		]
+	},
+	{
+		"name": "Gold-Pickled Fowl Foot",
+		"description": "Four-toed foot of a fowl, pickled in a golden medicinal solution.\r\nCraftable item.\r\n\r\nBoosts the amount of runes obtained from defeating enemies for a certain duration.\r\n\r\nSince old times, the needy would scrape the meat clean even from a fowl's claw.",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Four-Toed Fowl Foot" },
+			{ "quantity": 1, "name": "Gold Firefly" }
+		]
+	},
+	{
+		"name": "Grace Mimic",
+		"description": "A fetish indicating the guidance of grace.\r\nCraftable item.\r\n\r\nSimilar to grace, this fetish draws rays guiding the way, only without any sense of order.\r\n\r\nUseful as a last resort for those who have lost their way, or for use by those who believe that unrefined guidance will lead to truer encounters.",
+		"materials": [
+			{ "quantity": 1, "name": "Erdleaf Flower" },
+			{ "quantity": 1, "name": "Human Bone Shard" }
+		]
+	},
+	{
+		"name": "Haligbone Arrow",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Golden Sunflower" }
+		]
+	},
+	{
+		"name": "Haligbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Golden Sunflower" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Haligbone Bolt",
+		"description": "Bolt carved from animal bone. The tip is daubed with a golden tincture. Deals holy damage.\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Golden Sunflower" }
+		]
+	},
+	{
+		"name": "Holy Grease",
+		"description": "Solidified grease made from a mixture of holy resonant materials. Craftable item.\r\n\r\nCoats armament, adding holy damage to attacks.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Golden Sunflower" }
+		]
+	},
+	{
+		"name": "Holy Water Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nEnchanted by incantations of the Golden Order.\r\n\r\nConsumes FP. Throw at enemy to inflict holy damage.\r\n\r\nHighly effective against Those Who Live in Death, even preventing them from rising again.\r\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Tarnished Golden Sunflower" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Holyproof Dried Liver",
+		"description": "Cured animal liver, dried out after pickling in a golden medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts holy damage negation, improving damage mitigation against attacks imbued with holiness.",
+		"materials": [
+			{ "quantity": 5, "name": "Golden Rowa" },
+			{ "quantity": 1, "name": "Beast Liver" },
+			{ "quantity": 3, "name": "Golden Sunflower" }
+		]
+	},
+	{
+		"name": "Immunizing Cured Meat",
+		"description": "Cured strip of meat, dried out after pickling in a green medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts immunity.\r\n\r\nHigher immunity helps to mitigate the buildup of various poisons and scarlet rot.",
+		"materials": [
+			{ "quantity": 5, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Sliver of Meat " },
+			{ "quantity": 1, "name": "Great Dragonfly Head" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Immunizing White Cured Meat",
+		"description": "A white sliced meat, dried out after pickling in a green medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts immunity.\r\n\r\nLasts longer than traditional cured meat, but with reduced effectiveness. ",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Strip of White Flesh" },
+			{ "quantity": 1, "name": "Great Dragonfly Head" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Invigorating Cured Meat",
+		"description": "Cured strip of meat, dried out after pickling in a red medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts robustness.\r\n\r\nHigher robustness helps to mitigate the buildup of frost and blood loss.",
+		"materials": [
+			{ "quantity": 3, "name": "Golden Rowa" },
+			{ "quantity": 1, "name": "Sliver of Meat " },
+			{ "quantity": 1, "name": "Crab Eggs" },
+			{ "quantity": 1, "name": "Land Octopus Ovary" }
+		]
+	},
+	{
+		"name": "Invigorating White Cured Meat",
+		"description": "A white sliced meat, dried out after pickling in a red medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts robustness.\r\n\r\nLasts longer than traditional cured meat, but with reduced effectiveness.",
+		"materials": [
+			{ "quantity": 3, "name": "Golden Rowa" },
+			{ "quantity": 1, "name": "Strip of White Flesh" },
+			{ "quantity": 1, "name": "Crab Eggs" },
+			{ "quantity": 1, "name": "Land Octopus Ovary" }
+		]
+	},
+	{
+		"name": "Ironjar Aromatic",
+		"description": "Forbidden art of depraved perfumers.\r\nCraftable with a perfume bottle.\r\n\r\nUses FP to temporarily turn body to steel, boosting poise, resistances and damage negation at the expense of mobility and vulnerability to lightning.\r\n\r\nAn art that requires fragments of hunted noble jars. Depraved perfumers are plainly in league with jar poachers.",
+		"materials": [
+			{ "quantity": 2, "name": "Altus Bloom" },
+			{ "quantity": 1, "name": "Budding Cave Moss" },
+			{ "quantity": 3, "name": "Living Jar Shard" },
+			{ "quantity": 1, "name": "Perfume Bottle" }
+		]
+	},
+	{
+		"name": "Lightning Grease",
+		"description": "Solidified grease made from a mixture of fulminating materials. Craftable item.\r\n\r\nCoats armament, adds lightning damage to attacks.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Fulgurbloom " }
+		]
+	},
+	{
+		"name": "Lightning Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of fulminating materials is sealed inside.\r\n\r\nThrow at enemies to inflict lightning damage.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Fulgurbloom " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Lightningbone Arrow",
+		"description": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Fulgurbloom " }
+		]
+	},
+	{
+		"name": "Lightningbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Fulgurbloom " },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Lightningbone Bolt",
+		"description": "Bolt crafted from animal bone with a lightning-infused tip. Deals lightning damage.\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Fulgurbloom " }
+		]
+	},
+	{
+		"name": "Lightningproof Dried Liver",
+		"description": "Cured animal liver, dried out after pickling in an yellow medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts lightning damage negation, improving damage mitigation against attacks imbued with lightning.",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Beast Liver" },
+			{ "quantity": 2, "name": "Fulgurbloom " }
+		]
+	},
+	{
+		"name": "Magic Grease",
+		"description": "Solidified grease made from a mixture of magically resonant materials. Craftable item.\r\n\r\nCoats armament, adding magic damage to attacks.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Crystal Bud" }
+		]
+	},
+	{
+		"name": "Magic Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of magically resonant materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\nCalled a \"faux sorcery\" in Raya Lucaria.\r\nConsumes FP. Throw at enemies to inflict magic damage",
+		"materials": [
+			{ "quantity": 2, "name": "Glintstone Firefly" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Magicbone Arrow",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Glintstone Firefly" }
+		]
+	},
+	{
+		"name": "Magicbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. Deals magic damage.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Glintstone Firefly" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Magicbone Bolt",
+		"description": "Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage.\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Glintstone Firefly" }
+		]
+	},
+	{
+		"name": "Neutralizing Boluses",
+		"description": "Green boluses made from cave moss.\r\nCraftable item.\r\n\r\nAlleviates poison buildup and cures poison ailment.\r\n\r\nPoison accumulates gradually, coming into effect once the threshold is reached. Poison ailment lowers HP in steady increments for a period.",
+		"materials": [
+			{ "quantity": 1, "name": "Herba " },
+			{ "quantity": 1, "name": "Cave Moss" },
+			{ "quantity": 1, "name": "Great Dragonfly Head" }
+		]
+	},
+	{
+		"name": "Oil Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of oil-infused materials is sealed inside.\r\n\r\nThrow at enemies to soak them in oil, making them heavily susceptible to fire damage.",
+		"materials": [
+			{ "quantity": 1, "name": "Melted Mushroom" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Pickled Turtle Neck",
+		"description": "Turtle neck meat, pickled in a bitter medicinal solution. Craftable item.\r\n\r\nTemporarily boosts stamina recovery.\r\n\r\nThe nutrients churn through the body, practically boiling out endless power.",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Turtle Neck Meat" },
+			{ "quantity": 1, "name": "Herba " }
+		]
+	},
+	{
+		"name": "Poison Grease",
+		"description": "Solidified grease made from a mixture of poison-green materials. Craftable item.\r\n\r\nCoats armament, inflicting poison.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Poisonbloom " }
+		]
+	},
+	{
+		"name": "Poison Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of poisonous materials is sealed inside.\r\n\r\nThrow at enemies to cause buildup of poison.",
+		"materials": [
+			{ "quantity": 1, "name": "Toxic Mushroom" },
+			{ "quantity": 1, "name": "Poisonbloom " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Poison Spraymist",
+		"description": "Forbidden art of depraved perfumers.\r\nCraftable with a perfume bottle.\r\n\r\nUses FP to release a poison mist from user's mouth, causing a buildup of poison.\r\n\r\nPerfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said.",
+		"materials": [
+			{ "quantity": 1, "name": "Altus Bloom" },
+			{ "quantity": 1, "name": "Miranda Powder" },
+			{ "quantity": 1, "name": "Poisonbloom " },
+			{ "quantity": 1, "name": "Perfume Bottle" }
+		]
+	},
+	{
+		"name": "Poisonbone Arrow ",
+		"description": "Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Poisonbloom " }
+		]
+	},
+	{
+		"name": "Poisonbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is daubed with venom. Afflicts targets with poison.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Poisonbloom " },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Poisonbone Bolt",
+		"description": "Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison.\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Poisonbloom " }
+		]
+	},
+	{
+		"name": "Poisonbone Dart",
+		"description": "Animal bone sharpened into a knife for throwing, with a poison-laced tip.\r\nCraftable item.\r\n\r\nThrow at enemies to inflict damage and build up poison.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Poisonbloom " }
+		]
+	},
+	{
+		"name": "Preserving Boluses",
+		"description": "Scarlet boluses made of cave moss.\r\nCraftable item.\r\n\r\nAlleviates scarlet rot buildup and cures rot aliment.\r\n\r\nScarlet rot accumulates gradually, coming into effect once the threshold is reached. Scarlet rot ailment greatly lowers HP in steady increments for a period.",
+		"materials": [
+			{ "quantity": 2, "name": "Dewkissed Herba" },
+			{ "quantity": 1, "name": "Crystal Cave Moss" },
+			{ "quantity": 1, "name": "Sacramental Bud" }
+		]
+	},
+	{
+		"name": "Rainbow Stone",
+		"description": "Ruin Fragment that has undergone some simple processing.\r\nCraftable item.\r\n\r\nStones such as these shine with the colors of the rainbow, making them useful markers when placed on the ground.\r\n\r\nCan also be dropped to gauge the distance of a fall. The higher the pitch of the sound, the higher the likelihood of the fall being fatal.\r\nOnce used to entertain children on the fringes of the Lands Between.",
+		"materials": [{ "quantity": 1, "name": "Ruin Fragment" }]
+	},
+	{
+		"name": "Rainbow Stone Arrow",
+		"description": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored light shines at the point of impact.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 3, "name": "Ruin Fragment" }
+		]
+	},
+	{
+		"name": "Rancor Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nEnchanted by the ancient death hex.\r\n\r\nConsumes FP. Throw at enemies to spawn vengeful spirits that chase down foes.\r\n\r\nIn times of old, the dead were burned with ghostflame, and from those cinders arose vengeful spirits.",
+		"materials": [
+			{ "quantity": 2, "name": "Grave Violet" },
+			{ "quantity": 1, "name": "Human Bone Shard" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Redmane Fire Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEngraved with the crest of red-maned lion.\r\n\r\nThrow at enemies to inflict heavy fire damage.\r\n\r\nEven today, the survivors of Radahn's battalion employ fire to stave off the scarlet rot.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Smoldering Butterfly" },
+			{ "quantity": 1, "name": "Old Fang" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Rejuvenating Boluses",
+		"description": "Black boluses made of cave moss.\r\nCraftable item.\r\n\r\nAlleviates death blight buildup.\r\n\r\nBlight accumulates slowly, causing instant death once the threshold is reached. Take one of these in timely fashion to avoid such an event.",
+		"materials": [
+			{ "quantity": 2, "name": "Dewkissed Herba" },
+			{ "quantity": 1, "name": "Crystal Cave Moss" },
+			{ "quantity": 1, "name": "Golden Centipede" }
+		]
+	},
+	{
+		"name": "Roped Fetid Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\n\r\nThrow at rearward enemies to cause buildup of deadly poison.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Gold-Tinged Excrement" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Fire Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of incendiary materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\n\r\nThrow at rearward enemies to inflict fire damage.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Smoldering Butterfly" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Fly Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\n\r\nThrow at rearward enemies to release a swarm of flies. Their fangs inflict countless painful lacerations on the victim while the grating sound of their wings assails their sanity.\r\n\r\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Blood-Tainted Excrement" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Holy Water Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nEnchanted by incantations of the Golden Order, and a short rope that aids throwing has been secured around the pot.\r\n\r\nConsumes FP. Throw at rearward enemies to inflict holy damage.\r\n\r\nHighly effective against Thos Who Live in Death, even preventing them from rising again.\r\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Tarnished Golden Sunflower" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Lightning Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of fulminating materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\n\r\nThrow at rearward enemies to inflict lightning damage.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Fulgurbloom " },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Magic Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\n\r\nA cocktail of magically resonant materials is sealed inside. Called a \"\"faux sorcery\"\" in Raya Lucaria.\r\n\r\nConsumes FP. Throw at rearward enemies to inflict magic damage.",
+		"materials": [
+			{ "quantity": 2, "name": "Glintstone Firefly" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Oil Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of oil-infused materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\n\r\nThrow at rearward enemies to soak them in oil, making them heavily susceptible to fire damage.",
+		"materials": [
+			{ "quantity": 1, "name": "Melted Mushroom" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Poison Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of poisonous materials is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\n\r\nThrow at rearward enemies to cause buildup of poison.",
+		"materials": [
+			{ "quantity": 1, "name": "Toxic Mushroom" },
+			{ "quantity": 1, "name": "Poisonbloom " },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Roped Volcano Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nPowdered volcanic rock is sealed inside, and a short rope that aids throwing has been secured around the pot.\r\nThrown at rearward enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration.",
+		"materials": [
+			{ "quantity": 2, "name": "Volcanic Stone" },
+			{ "quantity": 1, "name": "String " },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Rot Grease",
+		"description": "Solidified grease made from a mixture of rotten materials. Craftable item.\r\n\r\nCoats armament, inflicting scarlet rot.\r\nThe effect lasts only for a short time.\r\n\r\n ",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Aeonian Butterfly" }
+		]
+	},
+	{
+		"name": "Rot Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nDecorated with the crest of scarlet wings.\r\n\r\nThrow at enemies to cause buildup of scarlet rot. \r\n\r\nThe rot bubbles up from the Swamp of Aeonia, and eats away at life like a vicious plague.",
+		"materials": [
+			{ "quantity": 2, "name": "Toxic Mushroom" },
+			{ "quantity": 2, "name": "Faded Erdleaf Flower" },
+			{ "quantity": 1, "name": "Aeonian Butterfly" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Rotbone Arrow",
+		"description": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Aeonian Butterfly" }
+		]
+	},
+	{
+		"name": "Rotbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Aeonian Butterfly" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Rotbone Bolt",
+		"description": "Bolt carved from animal bone. The tip is daubed with rot. Afflicts targets with scarlet rot.\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Aeonian Butterfly" }
+		]
+	},
+	{
+		"name": "Rowa Raisin",
+		"description": "Preparation of dried Rowa fruit.\r\nCraftable item.\r\n\r\nFeed to Torrent, the spectral steed, while riding to restore his HP.\r\n\r\nHumans are unable to digest Rowa fruit, but Torrent seems to have a taste for it.",
+		"materials": [{ "quantity": 1, "name": "Rowa Fruit " }]
+	},
+	{
+		"name": "Sacred Order Pot",
+		"description": "Craftable item prepared using a ritual pot.\r\nEnchanted by incantations of the Golden Order.\r\n\r\nConsumes FP. Throw at enemies to inflict heavy holy damage.\r\n\r\nHighly effective against Those Who Live in Death, even preventing them from rising again.\r\nThe Golden Order has no mercy for those who trespass beyond life's bounds.",
+		"materials": [
+			{ "quantity": 2, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Golden Sunflower" },
+			{ "quantity": 1, "name": "Golden Centipede" },
+			{ "quantity": 1, "name": "Ritual Pot" }
+		]
+	},
+	{
+		"name": "Scriptstone ",
+		"description": "Ruin Fragment with a cipher inscription.\r\nCraftable item.\r\n\r\nUses FP to reveal more messages from other worlds.\r\n\r\nWords are gregarious things, drawn to one another much as people are.",
+		"materials": [
+			{ "quantity": 1, "name": "Ruin Fragment" },
+			{ "quantity": 1, "name": "Human Bone Shard" }
+		]
+	},
+	{
+		"name": "Shattershard Arrow",
+		"description": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 2, "name": "Cracked Crystal" }
+		]
+	},
+	{
+		"name": "Shield Grease",
+		"description": "Solidified grease made from a mixture of magically resonant materials. Craftable item.\r\n\r\nCoats left-hand armament, boosting guarding ability and all forms of damage negations.\r\n\r\nPrimarily used on shields.",
+		"materials": [
+			{ "quantity": 1, "name": "Root Resin" },
+			{ "quantity": 1, "name": "Silver Tear Husk" },
+			{ "quantity": 1, "name": "Crystal Bud" }
+		]
+	},
+	{
+		"name": "Silver-Pickled Fowl Foot",
+		"description": "Four-toed foot of a fowl, pickled in a silvery medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts item discovery.\r\n\r\nSince old times, the needy would scrape the meat clean even from a fowl's claw.",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Four-Toed Fowl Foot" },
+			{ "quantity": 1, "name": "Silver Firefly" }
+		]
+	},
+	{
+		"name": "Sleep Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nEnchanted by the incantations of St. Trina.\r\n\r\nConsumes FP. Throw enemies to cause buildup of sleep.\r\n\r\nLike a lullaby, or a quagmire, its light-purple haze irresistibly draws its victims down into sleep. Sweet dreams.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Trina's Lily" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Sleepbone Arrow",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with sleep.\r\n\r\nCraftable item.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Trina's Lily" }
+		]
+	},
+	{
+		"name": "Sleepbone Arrow (Fletched)",
+		"description": "Arrow whittled from animal bones. The tip is daubed with a water lily tincture. Afflicts targets with sleep.\r\n\r\nCraftable item. The fletching adds distance to the arrow's flight.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Trina's Lily" },
+			{ "quantity": 1, "name": "Flight Pinion" }
+		]
+	},
+	{
+		"name": "Sleepbone Bolt",
+		"description": "Bolt carved from animal bone. The tip is daubed with a waterlily tincture.\r\nAfflicts targets with sleep.",
+		"materials": [
+			{ "quantity": 2, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Trina's Lily" }
+		]
+	},
+	{
+		"name": "Soap ",
+		"description": "A plant-based soap made from mushroom juice.\r\nCraftable item.\r\n\r\nCleans off filth and other accumulations on the body while also slightly reducing poison buildup.\r\n\r\nFilth covering the exterior eventually seeps inside, soiling one's very spirit.",
+		"materials": [{ "quantity": 2, "name": "Melted Mushroom" }]
+	},
+	{
+		"name": "Soft Cotton",
+		"description": "A soft but sturdy cotton formed from splitting open Rowa fruit in a particular manner. Craftable item.\r\n\r\nAttaching this cotton to the bottom of one's feet allows for a temporary reduction in fall damage and sound.\r\n\r\nIf you must court danger, at the very least, tread lightly.",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Smoldering Butterfly" }
+		]
+	},
+	{
+		"name": "Soporific Grease",
+		"description": "Solidified grease made from a mixture of light-purple materials. Craftable item.\r\n\r\nCoats armament, inflicting sleep.\r\nThe effect lasts only for a short time.",
+		"materials": [
+			{ "quantity": 1, "name": "Trina's Lily" },
+			{ "quantity": 1, "name": "Root Resin" }
+		]
+	},
+	{
+		"name": "Spark Aromatic",
+		"description": "Art of the perfumers who fought In the Shattering.\r\nCraftable with a perfume bottle.\r\n\r\nUses FP to broadly scatter sparks in a wide arc straight ahead.\r\n\r\nThough fire was prohibited to those who served the Erdtree, this rule was forgotten as the war drew ever on.",
+		"materials": [
+			{ "quantity": 1, "name": "Altus Bloom" },
+			{ "quantity": 1, "name": "Miranda Powder" },
+			{ "quantity": 1, "name": "Perfume Bottle" }
+		]
+	},
+	{
+		"name": "Spellproof Dried Liver",
+		"description": "Cured animal liver, dried out after pickling in a blue medicinal solution.\r\nCraftable item.\r\n\r\nTemporarily boosts magic damage negation, improving damage mitigation against attacks imbued with magic.",
+		"materials": [
+			{ "quantity": 3, "name": "Rowa Fruit " },
+			{ "quantity": 1, "name": "Beast Liver" },
+			{ "quantity": 2, "name": "Glintstone Firefly" }
+		]
+	},
+	{
+		"name": "Stanching Boluses",
+		"description": "Red boluses made from cave moss.\r\nCraftable item.\r\n\r\nAlleviates impending blood loss.\r\n\r\nBlood loss escalates gradually, causing great damage once the threshold is reached. Take one of these in timely fashion to avoid such an event.",
+		"materials": [
+			{ "quantity": 1, "name": "Herba " },
+			{ "quantity": 1, "name": "Cave Moss" },
+			{ "quantity": 1, "name": "Land Octopus Ovary" }
+		]
+	},
+	{
+		"name": "Stimulating Boluses",
+		"description": "Light-purple boluses made from cave moss.\r\nCraftable item.\r\n\r\nAlleviates buildup of sleep.\r\n\r\nSleep accumulates gradually, causing sudden fogginess and loss of FP once the threshold is reached, even if it does not force the afflicted into true slumber.\r\n\r\nTake one of these in a timely fashion to avoid such events.",
+		"materials": [
+			{ "quantity": 1, "name": "Cave Moss" },
+			{ "quantity": 1, "name": "Slumbering Egg" },
+			{ "quantity": 1, "name": "Herba " }
+		]
+	},
+	{
+		"name": "Stormwing Bone Arrow",
+		"description": "Arrow whittled from animal bones fletched with stormhawk feathers. Craftable item.\r\n\r\nFlies enshrouded in storm winds, breaking enemy stances and guards with ease.",
+		"materials": [
+			{ "quantity": 3, "name": "Thin Beast Bones" },
+			{ "quantity": 1, "name": "Stormhawk Feather" }
+		]
+	},
+	{
+		"name": "Swarm Pot",
+		"description": "Craftable item prepared using a cracked pot.\r\nA cocktail of effluents is sealed inside.\r\n\r\nCraftable item prepared using a cracked pot.\r\n\r\nA cocktail of effluents is sealed inside.\r\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived.",
+		"materials": [
+			{ "quantity": 1, "name": "Mushroom " },
+			{ "quantity": 1, "name": "Blood-Tainted Excrement" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Sweet Raisin",
+		"description": "Preparation of dried Golden Rowa fruit.\r\nCraftable item.\r\n\r\nFeed to Torrent, the spectral steed, while riding to greatly restore his HP\r\n\r\nGolden Rowa fruit is not unlike honey, and Torrent seems to have a taste for it.",
+		"materials": [{ "quantity": 1, "name": "Golden Rowa" }]
+	},
+	{
+		"name": "Thawfrost Boluses",
+		"description": "Ice-hued boluses made from cave moss.\r\nCraftable item.\r\n\r\nAlleviates buildup of frost and cures frostbite ailments.\r\n\r\nFrost accumulates gradually, causing damage and inflicting frostbite once the threshold is reached.\r\nVulnerability to damage increases for a certain duration.",
+		"materials": [
+			{ "quantity": 1, "name": "Cave Moss" },
+			{ "quantity": 1, "name": "Crab Eggs" },
+			{ "quantity": 1, "name": "Herba " }
+		]
+	},
+	{
+		"name": "Uplifting Aromatic",
+		"description": "Art of the perfumers who fought in the Shattering.\r\nCraftable with a perfume bottle.\r\n\r\nUses FP to raise the attack power of the user and nearby allies while also reducing the damage from one incoming attack by half.\r\nThis aromatic has an extremely potent morale-raising effect that makes those accustomed to it fearless in the face of death. It was this influence that made the perfumers exceptional commanders.",
+		"materials": [
+			{ "quantity": 1, "name": "Altus Bloom" },
+			{ "quantity": 1, "name": "Budding Cave Moss" },
+			{ "quantity": 1, "name": "Silver Tear Husk" },
+			{ "quantity": 1, "name": "Arteria Leaf" },
+			{ "quantity": 1, "name": "Perfume Bottle" }
+		]
+	},
+	{
+		"name": "Volcano Pot",
+		"description": "Powdered volcanic rock is sealed inside.\r\nThrow at enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration",
+		"materials": [
+			{ "quantity": 2, "name": "Volcanic Stone" },
+			{ "quantity": 1, "name": "Cracked Pot" }
+		]
+	},
+	{
+		"name": "Warming Stone",
+		"description": "Ruin Fragment blessed with an incantation of the Two Fingers.\r\nCraftable item.\r\n\r\nUses FP to generate warmth, continuously restoring the HP of those nearby.\r\n\r\nIt's said that the Erdtree was once as warm as the gentle sun, and would gradually heal all who bathed in its rays.",
+		"materials": [
+			{ "quantity": 1, "name": "Erdleaf Flower" },
+			{ "quantity": 1, "name": "Smoldering Butterfly" },
+			{ "quantity": 1, "name": "Sanctuary Stone" }
+		]
+	}
+]

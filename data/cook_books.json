@@ -1,0 +1,365 @@
+[
+	{
+		"name": "Ancient Dragon Apostle's Cookbook [1]",
+		"description": "A record of crafting techniques taught by the capital's ancient dragon cult.\r\nDetails techniques that harness lightning, the weapon of the ancient dragons.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Lightning Grease\r\n- Drawstring Lightning Grease\r\n- Lightningbone Arrow\r\n- Lightningbone Arrow (Fletched)\r\n- Lightningbone Bolt",
+		"recipes": [
+			"Lightning Grease",
+			"Drawstring Lightning Grease",
+			"Lightningbone Arrow",
+			"Lightningbone Arrow (Fletched)",
+			"Lightningbone Bolt"
+		]
+	},
+	{
+		"name": "Ancient Dragon Apostle's Cookbook [2]",
+		"description": "A record of crafting techniques taught by the capital's ancient dragon cult.\r\nDetails techniques that harness lightning, the weapon of the ancient dragons.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Lightning Pots\r\n- Roped Lightning Pots",
+		"recipes": ["Lightning Pot", "Roped Lightning Pot"]
+	},
+	{
+		"name": "Ancient Dragon Apostle's Cookbook [3]",
+		"description": "A record of crafting techniques taught by the capital's ancient dragon cult.\r\nDetails techniques that harness lightning, the weapon of the ancient dragons.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Dragonwound Grease",
+		"recipes": ["Dragonwound Grease"]
+	},
+	{
+		"name": "Ancient Dragon Apostle's Cookbook [4]",
+		"description": "A record of crafting techniques taught by the capital's ancient dragon cult.\r\nDetails techniques that harness lightning, the weapon of the ancient dragons.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Ancient Dragonbolt Pot\r\n- Lightningproof Dried Liver",
+		"recipes": ["Ancient Dragonbolt Pot", "Lightningproof Dried Liver"]
+	},
+	{
+		"name": "Armorer's Cookbook [1]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Fire Grease\r\n- Drawstring Fire Grease\r\n- Fireproof Dried Liver",
+		"recipes": [
+			"Fire Grease",
+			"Drawstring Fire Grease",
+			"Fireproof Dried Liver"
+		]
+	},
+	{
+		"name": "Armorer's Cookbook [2]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Firebone Arrow\r\n- Firebone Arrow (Fletched)\r\n- Firebone Bolt\r\n- Neutralizing Boluses",
+		"recipes": [
+			"Firebone Arrow",
+			"Firebone Arrow (Fletched)",
+			"Firebone Bolt",
+			"Neutralizing Boluses"
+		]
+	},
+	{
+		"name": "Armorer's Cookbook [3]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Exalted Flesh",
+		"recipes": ["Exalted Flesh"]
+	},
+	{
+		"name": "Armorer's Cookbook [4]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Redmane Fire Pot",
+		"recipes": ["Redmane Fire Pot"]
+	},
+	{
+		"name": "Armorer's Cookbook [5]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Immunizing Cured Meat\r\n- Immunizing White Cured Meat",
+		"recipes": ["Immunizing Cured Meat", "Immunizing White Cured Meat"]
+	},
+	{
+		"name": "Armorer's Cookbook [6]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Preserving Boluses",
+		"recipes": ["Preserving Boluses"]
+	},
+	{
+		"name": "Armorer's Cookbook [7]",
+		"description": "A record of crafting techniques left by an armorer who served the great general Radahn.\r\nContains knowledge of dealing with rot; the application of fire in particular.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Giantsflame Fire Pot",
+		"recipes": ["Giantsflame Fire Pot"]
+	},
+	{
+		"name": "Crafting Kit",
+		"description": "Default Recipes\r\n- Rowa Raisin\r\n- Bone Dart\r\n- Fire Pot\r\n- Roped Fire Pot\r\n- Rainbow Stone\r\n- Furlcalling Finger Remedy",
+		"recipes": [
+			"Rowa Raisin",
+			"Bone Dart ",
+			"Fire Pot",
+			"Roped Fire Pot",
+			"Rainbow Stone",
+			"Furlcalling Finger Remedy"
+		]
+	},
+	{
+		"name": "Fevor's Cookbook [1]",
+		"description": "A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Sleep Pot",
+		"recipes": ["Sleep Pot"]
+	},
+	{
+		"name": "Fevor's Cookbook [2]",
+		"description": "A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Sleepbone Arrow\r\n- Soporific Grease\r\n- Drawstring Soporific Grease",
+		"recipes": [
+			"Sleepbone Arrow",
+			"Sleepbone Arrow (Fletched)",
+			"Sleepbone Bolt",
+			"Soporific Grease",
+			"Drawstring Soporific Grease"
+		]
+	},
+	{
+		"name": "Fevor's Cookbook [3]",
+		"description": "A record of crafting techniques left by a man who was utterly captivated by St. Trina. He continued the search for her in his slumber.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Bewitching Branch",
+		"recipes": ["Bewitching Branch"]
+	},
+	{
+		"name": "Frenzied's Cookbook [1]",
+		"description": "A record of crafting techniques left by those afflicted by the madness of the flame of frenzy.\r\nContains techniques discovered in desperation.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Clarifying Boluses",
+		"recipes": ["Clarifying Boluses"]
+	},
+	{
+		"name": "Frenzied’s Cookbook [2]",
+		"description": "A record of crafting techniques left by those afflicted by the madness of the flame of frenzy.\r\nContains techniques discovered in desperation.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Frenzyflame Stone",
+		"recipes": ["Frenzyflame Stone"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [1]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Cuckoo Glintstone",
+		"recipes": ["Cuckoo Glintstone"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [2]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Freezing Grease\r\n\r\n  ",
+		"recipes": ["Freezing Grease"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [3]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Albinauric Pot",
+		"recipes": ["Albinauric Pot"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [4]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Magic Pot\r\n- Roped Magic Pot\r\n- Shield Grease",
+		"recipes": ["Magic Pot", "Roped Magic Pot", "Shield Grease"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [5]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Magic Grease\r\n- Drawstring Magic Grease\r\n- Magicbone Arrow\r\n- Magicbone Arrow (Fletched)\r\n- Magicbone Bolt",
+		"recipes": [
+			"Magic Pot",
+			"Roped Magic Pot",
+			"Magicbone Arrow",
+			"Magicbone Arrow (Fletched)",
+			"Magicbone Bolt"
+		]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [6]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Freezing Pot",
+		"recipes": ["Freezing Pot"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [7]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Coldbone Arrow\r\n- Coldbone Arrow (Fletched)\r\n- Coldbone Bolt",
+		"recipes": ["Coldbone Arrow", "Coldbone Arrow (Fletched)", "Coldbone Bolt"]
+	},
+	{
+		"name": "Glintstone Craftsman's Cookbook [8]",
+		"description": "A record of crafting techniques left by a glintstone craftsman who served the Academy.\r\nContains information on \"faux sorceries,\" such as they were called.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Academy Magic Pot",
+		"recipes": ["Academy Magic Pot"]
+	},
+	{
+		"name": "Missionary's Cookbook [1]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Holy Water Pot\r\n- Roped Holy Water Pot",
+		"recipes": ["Holy Water Pot", "Roped Holy Water Pot"]
+	},
+	{
+		"name": "Missionary's Cookbook [2]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n-Scriptstone\r\n-Grace Mimic\r\n-Gold-Pickled Fowl Foot",
+		"recipes": ["Scriptstone ", "Grace Mimic", "Gold-Pickled Fowl Foot"]
+	},
+	{
+		"name": "Missionary's Cookbook [3]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Silver-Pickled Fowl Foot",
+		"recipes": ["Silver-Pickled Fowl Foot"]
+	},
+	{
+		"name": "Missionary's Cookbook [4]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Holy Grease\r\n- Drawstring Holy Grease\r\n- Haligbone Arrow\r\n- Haligbone Arrow (Fletched)\r\n- Haligbone Bolt",
+		"recipes": [
+			"Holy Grease",
+			"Drawstring Holy Grease",
+			"Haligbone Arrow",
+			"Haligbone Arrow (Fletched)",
+			"Haligbone Bolt"
+		]
+	},
+	{
+		"name": "Missionary's Cookbook [5]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Sacred Order Pot",
+		"recipes": ["Sacred Order Pot"]
+	},
+	{
+		"name": "Missionary's Cookbook [6]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Holyproof Dried Liver",
+		"recipes": ["Holyproof Dried Liver"]
+	},
+	{
+		"name": "Missionary's Cookbook [7]",
+		"description": "A record of crafting techniques left by a man who, unable to become a Finger Maiden, instead became a missionary, and went forth to spread holy teachings.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Rejuvenating Boluces",
+		"recipes": ["Rejuvenating Boluses"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [01]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Bone Arrow\r\n- Bone Arrow (Fletched)\r\n- Bone Bolt",
+		"recipes": ["Bone Arrow", "Bone Arrow (Fletched)", "Bone Bolt"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [02]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Glowstone\r\n- Invigorating Cured Meat\r\n- Invigorating White Cured Meat",
+		"recipes": [
+			"Glowstone",
+			"Invigorating Cured Meat",
+			"Invigorating White Cured Meat"
+		]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [03]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Pickled Turtle Neck\r\n- Poisonbone Arrow\r\n- Poisonbone Arrow (Fletched)\r\n- Poisonbone Bolt",
+		"recipes": [
+			"Pickled Turtle Neck",
+			"Poisonbone Arrow ",
+			"Poisonbone Arrow (Fletched)",
+			"Poisonbone Bolt"
+		]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [04] ",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Fetid Pot\r\n- Roped Fetid Pot",
+		"recipes": ["Fetid Pot", "Roped Fetid Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [05]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Beastlure Pot",
+		"recipes": ["Beastlure Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [06]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Blood Grease\r\n- Drawstring Blood Grease\r\n- Bloodbone Arrow\r\n- Bloodbone Arrow (Fletched)\r\n- Bloodbone Bolt",
+		"recipes": [
+			"Blood Grease",
+			"Drawstring Blood Grease",
+			"Bloodbone Arrow",
+			"Bloodbone Arrow (Fletched)",
+			"Bloodbone Bolt"
+		]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [07]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Soft Cotton\r\n- Stanching Boluses\r\n- Rainbow Stone Arrow",
+		"recipes": ["Soft Cotton", "Stanching Boluses", "Rainbow Stone Arrow"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [08]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Poison\r\n- Drawstring Poison Grease",
+		"recipes": ["Poison Grease", "Drawstring Poison Grease"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [09]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Rancor Pot",
+		"recipes": ["Rancor Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [10]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Stormwing Bone Arrow",
+		"recipes": ["Stormwing Bone Arrow"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [11]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Crystal Dart\r\n- Spellproof Dried Liver\r\n- Shattershard Arrow",
+		"recipes": ["Crystal Dart", "Spellproof Dried Liver", "Shattershard Arrow"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [12]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Cursed-Blood Pots",
+		"recipes": ["Cursed-Blood Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [13]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Bone Great Arrow\r\n- Bone Great Arrow (Fletched)\r\n- Bone Ballista Bolt",
+		"recipes": [
+			"Bone Great Arrow",
+			"Bone Great Arrow (Fletched)",
+			"Bone Ballista Bolt"
+		]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [14]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Poison Pot\r\n- Roped Poison Pot\r\n- Poisonbone Dart",
+		"recipes": ["Poison Pot", "Roped Poison Pot", "Poisonbone Dart"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [15]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Rotbone Arrow\r\n- Rotbone Arrow (Fletched)\r\n- Rotbone Bolt",
+		"recipes": ["Rotbone Arrow", "Rotbone Arrow (Fletched)", "Rotbone Bolt"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [16]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Thawfrost Boluses\r\n- Stimulating Boluses",
+		"recipes": ["Thawfrost Boluses", "Stimulating Boluses"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [17]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Soap\r\n- Oil Pot\r\n- Roped Oil Pot",
+		"recipes": ["Soap ", "Oil Pot", "Roped Oil Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [18]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Dappled Cured Meat\r\n- Dappled White Cured Meat",
+		"recipes": ["Dappled Cured Meat", "Dappled White Cured Meat"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [19]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Sweet Raisin\r\n- Warming Stone",
+		"recipes": ["Sweet Raisin", "Warming Stone"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [20]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n-Volcano Pot\r\n-Roped Volcano Pot",
+		"recipes": ["Volcano Pot", "Roped Volcano Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [21]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Alluring Pot",
+		"recipes": ["Alluring Pot"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [22]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Rot Pot\r\n- Rot Grease\r\n- Drawstring Rot Grease",
+		"recipes": ["Rot Pot", "Rot Grease", "Drawstring Rot Grease"]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [23]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Frozen Raisin\r\n- Clarifying Cured Meat\r\n- Clarifying White Cured Meat",
+		"recipes": [
+			"Frozen Raisin",
+			"Clarifying Cured Meat",
+			"Clarifying White Cured Meat"
+		]
+	},
+	{
+		"name": "Nomadic Warrior's Cookbook [24]",
+		"description": "A record of crafting techniques left by roaming nomad warriors.\r\nContains knowledge for surviving in the face of utter scarcity.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Swarm Pot\r\n- Roped Fly Pot",
+		"recipes": ["Swarm Pot", "Roped Fly Pot"]
+	},
+	{
+		"name": "Perfumer's Cookbook [1]",
+		"description": "A record of crafting techniques left by a military perfumer.\r\nContains martial techniques beyond the repertoire of an ordinary physician.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Spark Aromatic\r\n- Uplifting Aromatic",
+		"recipes": ["Spark Aromatic", "Uplifting Aromatic"]
+	},
+	{
+		"name": "Perfumer's Cookbook [2]",
+		"description": "A record of crafting techniques left by a depraved perfumer.\r\nContains perilous techniques no ordinary physician would attempt.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Poison Spraymist\r\n- Bloodboil Aromatic",
+		"recipes": ["Poison Spraymist", "Bloodboil Aromatic"]
+	},
+	{
+		"name": "Perfumer's Cookbook [3]",
+		"description": "A record of crafting techniques left by a depraved perfumer.\r\nContains perilous techniques no ordinary physician would attempt.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Ironjar Aromatic",
+		"recipes": ["Ironjar Aromatic"]
+	},
+	{
+		"name": "Perfumer's Cookbook [4]",
+		"description": "A record of crafting techniques left by a depraved perfumer.\r\nContains perilous techniques no ordinary physician would attempt.\r\n\r\nAcquire the knowledge to craft the following:\r\n\r\n- Acid Spraymist",
+		"recipes": ["Acid Spraymist"]
+	}
+]

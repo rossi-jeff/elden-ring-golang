@@ -1,0 +1,201 @@
+definitions:
+  gorm.DeletedAt:
+    properties:
+      time:
+        type: string
+      valid:
+        description: Valid is true if Time is not NULL
+        type: boolean
+    type: object
+  models.CookBook:
+    properties:
+      createdAt:
+        type: string
+      deletedAt:
+        $ref: '#/definitions/gorm.DeletedAt'
+      description:
+        type: string
+      id:
+        type: integer
+      name:
+        type: string
+      recipes:
+        items:
+          $ref: '#/definitions/models.Recipe'
+        type: array
+      updatedAt:
+        type: string
+    type: object
+  models.Material:
+    properties:
+      createdAt:
+        type: string
+      deletedAt:
+        $ref: '#/definitions/gorm.DeletedAt'
+      description:
+        type: string
+      id:
+        type: integer
+      name:
+        type: string
+      updatedAt:
+        type: string
+    type: object
+  models.Recipe:
+    properties:
+      cookBooks:
+        items:
+          $ref: '#/definitions/models.CookBook'
+        type: array
+      createdAt:
+        type: string
+      deletedAt:
+        $ref: '#/definitions/gorm.DeletedAt'
+      description:
+        type: string
+      id:
+        type: integer
+      materials:
+        items:
+          $ref: '#/definitions/models.RecipeMaterial'
+        type: array
+      name:
+        type: string
+      updatedAt:
+        type: string
+    type: object
+  models.RecipeMaterial:
+    properties:
+      material:
+        $ref: '#/definitions/models.Material'
+      materialID:
+        type: integer
+      quantity:
+        type: integer
+      recipeID:
+        type: integer
+    type: object
+info:
+  contact: {}
+  title: Elden Ring API
+  version: "1.0"
+paths:
+  /api/cook_books:
+    get:
+      consumes:
+      - application/json
+      description: List Cook Books Alphabetically
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/models.CookBook'
+            type: array
+      summary: Get Cook Books
+      tags:
+      - Cook Books
+  /api/cook_books/{CookBookID}:
+    get:
+      consumes:
+      - application/json
+      description: Finds a Cook Book by ID
+      parameters:
+      - description: Cook Book ID
+        in: path
+        name: CookBookID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.CookBook'
+      summary: Get a Cook Book
+      tags:
+      - Cook Books
+  /api/materials:
+    get:
+      consumes:
+      - application/json
+      description: List Materials Alphabetically
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/models.Material'
+            type: array
+      summary: Get Materials
+      tags:
+      - Materials
+  /api/materials/{MaterialId}:
+    get:
+      consumes:
+      - application/json
+      description: Get a Material by ID
+      parameters:
+      - description: Material ID
+        in: path
+        name: MaterialId
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/models.Material'
+            type: array
+      summary: Get a Material
+      tags:
+      - Materials
+  /api/recipes:
+    get:
+      consumes:
+      - application/json
+      description: List Recipes Alphabetically
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/models.Recipe'
+            type: array
+      summary: Get Recipes
+      tags:
+      - Recipes
+  /api/recipes/{RecipeID}:
+    get:
+      consumes:
+      - application/json
+      description: Get a Recipe by ID
+      parameters:
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/models.Recipe'
+            type: array
+      summary: Get a Recipe
+      tags:
+      - Recipes
+swagger: "2.0"

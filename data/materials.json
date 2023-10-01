@@ -1,0 +1,294 @@
+[
+	{
+		"name": "Aeonian Butterfly",
+		"description": "A butterfly with withered, scarlet wings found in the swamp of Aeonia.\r\nMaterial used for crafting items.\r\nAccording to myth, these butterflies were once the wings of the Goddess of Rot herself."
+	},
+	{
+		"name": "Albinauric Bloodclot",
+		"description": "The thick, coagulated blood of the Ablinaurics.\r\nMaterial used for crafting items.\r\nAlbinaurics are lifeforms made by human hands. Thus, many believe them to live impure lives, untouched by the Erdtree's grace.\r\n\r\nAlbinaurics are lifeforms made by human hands. Thus, many believe them to live impure lives, untouched by the Erdtree's grace."
+	},
+	{
+		"name": "Altus Bloom",
+		"description": "A golden-tinged flower from a succulent plant that blooms on the Altus Plateau.\r\nMaterial used for crafting items.\r\nSaid to be a funereal flower in an era long past, before the Erdtree grew."
+	},
+	{
+		"name": "Arteria Leaf",
+		"description": "Dark red leaves with thick, swollen veins.\r\nMaterial used for crafting items.\r\nExceedingly rare to find.\r\nA faint pulse can be felt in the veins.\r\nStirs the blood, providing an enlivening effect."
+	},
+	{
+		"name": "Beast Blood",
+		"description": "Fresh beast blood, glinting with gold.\r\nMaterial used for crafting items.\r\nFound by hunting carivorous beasts.\r\nThis glimmering blood never rots or decays."
+	},
+	{
+		"name": "Beast Liver",
+		"description": "The fresh liver of a beast; a luscious fruit of life.\r\nMaterial used for crating items.\r\nFound by hunting herbivorous beast.\r\nDried liver boost damage negation."
+	},
+	{
+		"name": "Blood-Tainted Excrement",
+		"description": "The bloody excrement of a carnivorous beast.\r\nMaterial used for crafting items.\r\nFound in the land of the new dynasty.\r\nMixed inside with half-digested flesh are dense colonies of tiny eggs of unknown but assuredly revolting origin."
+	},
+	{
+		"name": "Bloodrose ",
+		"description": "Blood-slick roses that bloom in festering blood.\r\nMaterial used for crafting items.\r\nParticularly beloved by those who serve the Lord of Blood. Glory to his inevitable reign."
+	},
+	{
+		"name": "Budding Cave Moss",
+		"description": "Faintly luminescent moss that grows in dark caves, speckled with tiny, yellow flowers.\r\nMaterial used for crafting items.\r\nIt is primarily used in perfumes."
+	},
+	{
+		"name": "Budding Horn",
+		"description": "A rarely-seen specimen of a young, budding horn.\r\nMaterial used for crafting items.\r\nFound by hunting herbivorous beasts.\r\nThis horn began to sprout on a beast that typically bears no horn. Perhaps it's a vestige of the primordial crucible."
+	},
+	{
+		"name": "Cave Moss",
+		"description": "Faintly luminescent moss that grows in dark caves.\r\nMaterial used in crafting items.\r\n\r\nA fundamental ingredient for medicinal boluses."
+	},
+	{
+		"name": "Crab Eggs",
+		"description": "Eggs of lare crabs which dwell in the shallows.\r\nMaterials used for crafting items.\r\nA nutritious foodstuff that warms from within. The flavor is exquisite. Only those of comfort and means know the truth:\r\na crab's eggs are more delectable than its meat."
+	},
+	{
+		"name": "Cracked Crystal",
+		"description": "A cracked, impure, degraded, and altogether unremarkable crystal.\r\nMaterial used for crafting items\r\nWidely found in crystal tunnels."
+	},
+	{
+		"name": "Cracked Pot",
+		"description": "This empty pot somehow mends itself when broken.\r\nEssential vessel for crafting cracked pot items.\r\nThe materials and magics sealed within deploy their effects when\r\nthe pot is thrown."
+	},
+	{
+		"name": "Crystal Bud",
+		"description": "A young plant, crystalized before it could mature.\r\nMaterial used for crafting items.\r\nWidely found in Liurnia Lake."
+	},
+	{
+		"name": "Crystal Cave Moss",
+		"description": "Faintly luminescent moss that grows in dark caves, laced with fine crystals.\r\nMaterial used for crafting items.\r\nAmong the mosses, it possesses unique medicinal properties."
+	},
+	{
+		"name": "Dewkissed Herba",
+		"description": "A herb that grows in the false night in and around the Eternal City.\r\nMaterial used for crafting items.\r\nSoaked in arcane dew, it gives off the faint glow of starlight.\r\nSoaked in arcane dew, it gives off the faint glow of starlight."
+	},
+	{
+		"name": "Erdleaf Flower",
+		"description": "A dusky-yellow flower that has started to fade and wilt. Material used for crafting items.\r\nFound throughout the Lands Between.\r\nSaid to grow from the old fallen leaves of the Erdtree, these flowers serve as the base material for a number of sorcery techniques."
+	},
+	{
+		"name": "Eye of Yelough",
+		"description": "A shrub fruit bursting with ripened pulp.\r\nMaterial used for crafting items.\r\nGrown in lands afflicted by frenzy, it's used for its pain-relieving properties... Though it's also known to be a dangerous intoxicant."
+	},
+	{
+		"name": "Faded Erdleaf Flower",
+		"description": "An Erdleaf flower that has faded into a plate scarlet, found blooming in rotten lands.\r\nMaterial used for crafting items.\r\nSaid to be fed by leaves that fell from the Erdtree in days of antiquity."
+	},
+	{
+		"name": "Fire Blossom",
+		"description": "A half-ashen and smoldering flower that blooms on the mountaintops of the Giants.\r\nMaterial used for crafting items.\r\nFertilized by the sparks from the forge at the peak where burns the flame of ruin."
+	},
+	{
+		"name": "Flight Pinion",
+		"description": "Flight feather of a bird of prey.\r\nMaterial used for crafting items.\r\nCommonly used for arrow fletchings."
+	},
+	{
+		"name": "Formic Rock",
+		"description": "Rock formed from solidified giant ant venom. Highly acidic.\r\nMaterial used for crafting items.\r\nFound near Ainsel River and other places where giant ants live."
+	},
+	{
+		"name": "Four-Toed Fowl Foot",
+		"description": "Foot of a four-toed fowl.\r\nMaterial used for crafting items.\r\nIn the Lands Between, having three digits is seen as a bad omen.\r\nAs such, the rarer four-toed fowl's is a gift of great luck indeed."
+	},
+	{
+		"name": "Fulgurbloom ",
+		"description": "Yellow flower that grows in lightning-struck lands.\r\nMaterial used for crafting items.\r\nImbued with traces of lightning's essence."
+	},
+	{
+		"name": "Glintstone Firefly",
+		"description": "A firefly whose glowing tail has hardened into glintstone, widely found in Liurnia Lake.\r\nMaterial used for crafting items.\r\n\r\nAlas, now that its tail is glintstone, it can no longer beguile potential mates."
+	},
+	{
+		"name": "Glintstone Scrap",
+		"description": "Piece of glintstone tinged with unstable magic. Found in crystal tunnels.\r\nBreak gem, using FP to produce a magic bolt.\r\nPoor quality and thereby easily broken, a sorcerer wouldn't give it a second look."
+	},
+	{
+		"name": "Gold Firefly",
+		"description": "Firefly that gives off a golden light.\r\nMaterial used in crafting items.\r\nFound near bodies of water close to Minor Erdtrees.\r\nThe light of fireflies is believed to have an alluring magic. Golden light is considered to invite runes."
+	},
+	{
+		"name": "Gold-Tinged Excrement",
+		"description": "Someone's excrement. It has a golden tinge. Material used for crafting items.\r\nOften hidden in woods and thickets.\r\nGold-tinged excrement is a highly stable substance; it doesn't dry out, nor does it lose its customary warmth or scent.\r\nFor better or for worse, it remains as it is."
+	},
+	{
+		"name": "Golden Centipede",
+		"description": "The golden, desiccated remains of a centipede.\r\nMaterial used for crafting items.\r\n\r\nKept as a fetish by Golden Order fundamentalists, especially the hunters of Those Who Live in Death.\r\nAs such, they are found near churches and similar."
+	},
+	{
+		"name": "Golden Dung",
+		"description": "Someone's excrement. It has a golden tinge.\r\nMaterial used for crafting items.\r\n\r\nGold-tinged excrement is a highly stable substance; it doesn't dry out, nor does it lose its customary warmth or scent. For better or for worse, it remains as it is."
+	},
+	{
+		"name": "Golden Rowa",
+		"description": "A Rowa fruit tinted with gold.\r\nMaterial used for crafting items.\r\n\r\nEasily found near the Erdtree."
+	},
+	{
+		"name": "Golden Sunflower",
+		"description": "A golden sunflower that grows facing the Erdtree.\r\nMaterial used for crafting items.\r\nFound near Minor Erdtrees.\r\n\r\nAt the foot of the Erdtree, they retain their color, along with a powerful holy essence."
+	},
+	{
+		"name": "Grave Violet",
+		"description": "A purple flower that blooms in graveyards.\r\nMaterial used for crafting items.\r\n\r\nThe hue of ghostflame, it's believed to be useful in calling forth spirits."
+	},
+	{
+		"name": "Gravel Stone",
+		"description": "A small clump of sharp, pointed stones.\r\nMaterial used for crafting items.\r\n\r\nSuch compound stones, found in lands once beset by ancient dragons, are said to be the scales of those very beasts."
+	},
+	{
+		"name": "Great Dragonfly Head",
+		"description": "Head of a large dragonfly.\r\nMaterial used for crafting items.\r\nLong believed to have the ability to neutralize poisons."
+	},
+	{
+		"name": "Hefty Beast Bone",
+		"description": "Thick, solid beast bones.\r\nMaterial used for crafting items.\r\nFound by hunting particularly large beasts.\r\nCommonly Used to make disposable weapons."
+	},
+	{
+		"name": "Herba ",
+		"description": "Evergreen leaves that give off a faith light.\r\nMaterial used for crafting items.\r\nThis very common medicinal plant can be found in thickets and elsewhere.\r\n\r\nLand octopuses eat humans in order to bear young, and theirs is the blood that runs through these ovaries."
+	},
+	{
+		"name": "Human Bone Shard",
+		"description": "Fragment of bone with dun mottling.\r\nMaterial used for crafting items.\r\nFound by hunting Those Who Live in Death.\r\n\r\nLamentably brittle, it crumbles at the lightest caress."
+	},
+	{
+		"name": "Land Octopus Ovary",
+		"description": "Puffy, milky white ovary of a land octopus.\r\nMaterial used for crafting items.\r\nLand octopuses eat humans in order to bear young, and theirs is the blood that runs through these ovaries."
+	},
+	{
+		"name": "Living Jar Shard",
+		"description": "A fragment of a living jar, hardened after its death.\r\nMaterial used for crafting items.\r\n\r\nSuch fragments command a high price due to the magical power locked within. This leaves the living jars unfortunate targets for poachers."
+	},
+	{
+		"name": "Lump of Flesh",
+		"description": "A lump of beast flesh filled with rich juices.\r\nMaterial used for crafting items.\r\nFound by hunting carnivorous beast.\r\nMeat suitable for a rustic feast."
+	},
+	{
+		"name": "Melted Mushroom",
+		"description": "A mushroom that grows in the false night in and around the Eternal City.\r\nMaterial used for crafting items.\r\n\r\nIt drips with a viscous fluid that behaves much like oil."
+	},
+	{
+		"name": "Miquella's Lily",
+		"description": "A delicate water lily of unalloyed gold that has started to fade and wilt.\r\nMaterial used for crafting items.\r\nExeedingly rare to find.\r\n\r\nA flower signifying faith in the Haligtree.\r\nThought to be beloved by the Empyrean Miquella in his youth."
+	},
+	{
+		"name": "Miranda Powder",
+		"description": "Pollen from a man-eating miranda flower.\r\nMaterial used for crafting items.\r\n\r\nThroughout history, perfumers have prized this extremely fragrant form of miranda pollen, not yet scattered into the air."
+	},
+	{
+		"name": "Mushroom ",
+		"description": "A fungal growth that thrives in damp thickets and elsewhere.\r\nMaterial used for crafting items.\r\nIts thick, spongy flesh makes it a key component in throwing pots."
+	},
+	{
+		"name": "Nascent Butterfly",
+		"description": "An arcane butterfly with translucent wings.\r\nMaterial used for crafting items.\r\nExceedingly rare to find.\r\n\r\nThis butterfly appears as if it's just emerged from its cocoon for its entire life."
+	},
+	{
+		"name": "Old Fang",
+		"description": "A rarely-seen specimen of beast fang.\r\nMaterial used for crafting items.\r\nFound by hunting carnivorous beasts.\r\n\r\nThese multiple, overlapping fangs grow from a single root. Perhaps they're a vestige of the primordial crucible."
+	},
+	{
+		"name": "Perfume Bottle",
+		"description": "Glass bottles used by perfumers. Used to seal various scent compounds.\r\nEssential vessel for crafting perfume items.\r\nThe art of perfuming was once jealously guarded in the capital, but after the perfumers were drafted into service during the Shattering, the art became widely practiced throughout the Lands Between."
+	},
+	{
+		"name": "Poisonbloom ",
+		"description": "Flower that grows in toxic terrain.\r\nMaterial used for crafting items.\r\nPoisonous, but may also provide the cure."
+	},
+	{
+		"name": "Rimed Crystal Bud",
+		"description": "A young plant, frozen into a crystal before it could mature.\r\nMaterial used for crafting items.\r\n\r\nWidely found in cold regions."
+	},
+	{
+		"name": "Rimed Rowa",
+		"description": "A berry-like fruit, thought to be the original strain of Rowa.\r\nMaterial used for crafting items.\r\nFound in frigid highlands.\r\n\r\nThis hardy species takes root even when frozen solid."
+	},
+	{
+		"name": "Ritual Pot",
+		"description": "This empty pot somehow mends itself when broken. Special item with greater durability than a cracked pot. \r\n\r\nEssential vessel for crafting ritual pot items. \r\n\r\nThe materials and magics sealed within deploy their effects when the pot is thrown."
+	},
+	{
+		"name": "Root Resin",
+		"description": "Resin secreted from the roots of the Great tree.\r\nMaterial used in crafting items.\r\nThe roots of the Great tree drive far and wide through the earth of the Lands Between.\r\nThey were once entwined with the roots of the Erdtree, or so they say."
+	},
+	{
+		"name": "Rowa Fruit ",
+		"description": "Berry-like red fruits that grow in shrubs.\r\nMaterial used for crafting items.\r\nEasily found everywhere in the Lands Between, it is primarily used in preserved foods."
+	},
+	{
+		"name": "Ruin Fragment",
+		"description": "Stone fragment found near places where ruins have fallen from the sky.\r\nCan be used for crafting, or simply for throwing at enemies.\r\nThese shards of stone are believed to have once been part of a temple in the sky.\r\nThey glow with a faint light from within."
+	},
+	{
+		"name": "Sacramental Bud",
+		"description": "An immature bud containing fresh blood.\r\nMaterial used for crafting items.\r\n\r\nBelieved to originate long ago from a strain of buds cultivated with youthful, sacramental blood."
+	},
+	{
+		"name": "Sanctuary Stone",
+		"description": "A rare piece of stone fragment found near places where ruins have fallen from the sky.\r\nMaterial used for crafting items.\r\n\r\nIt feeds and strengthens the light as it shines."
+	},
+	{
+		"name": "Silver Firefly",
+		"description": "Firefly that gives off a silvery light. Material used in crafting items.\r\nFound near bodies of cold water untouched by sunlight.\r\nThe light of fireflies is believed to have an alluring magic.\r\nSilver light is considered to invite riches."
+	},
+	{
+		"name": "Silver Tear Husk",
+		"description": "A hardened husk shed by a formless life form known as the Silver Tear, found in and around the Eternal City. Material used for crafting items. The Silver Tear makes mockery of life, reborn again and again into imitation. Perhaps, one day, it will be reborn a lord.."
+	},
+	{
+		"name": "Sliver of Meat ",
+		"description": "A slice of thinly carved beast flesh.\r\nMaterial used for crating items.\r\nFound by hunting herbivorous beast.\r\nThe dried meat toughens the constitution."
+	},
+	{
+		"name": "Slumbering Egg",
+		"description": "Owl eggs that will never hatch.\r\nMaterial used for crafting items.\r\n\r\nPrized as a symbol of the most sublime slumber."
+	},
+	{
+		"name": "Smoldering Butterfly",
+		"description": "An eternally burning butterfly found near wildfires and elsewhere.\r\nMaterial used for crafting items.\r\nServes as the kindling for a number of items."
+	},
+	{
+		"name": "Stormhawk Feather",
+		"description": "A feather from a hawk that lived as one\r\nwith the storms.\r\nMaterial used for crafting items.\r\n\r\nThese feathers, enveloped in swirling winds, are often used for arrow fletching."
+	},
+	{
+		"name": "String ",
+		"description": "Boasting no special qualities, this is merely a goodly length of string.\r\nMaterial used for crafting items.\r\nOften carried by demi-humans.\r\nUsed to make certain items easier to use."
+	},
+	{
+		"name": "Strip of White Flesh",
+		"description": "Thin strips of flesh taken from a bloodless creature.\r\nMaterial used for crafting items.\r\nThe dried meat toughens the constitution, boosting resistance. It's\r\nknown for its long-lasting effect."
+	},
+	{
+		"name": "Tarnished Golden Sunflower",
+		"description": "A large flower that blooms facing the Erdtree.\r\nMaterial used for crafting items.\r\nFound near Minor Erdtrees.\r\n\r\nThough wilted and faded, it still retains holy essence."
+	},
+	{
+		"name": "Thin Beast Bones",
+		"description": "Thin, hard animal bones.\r\nMaterial used for crafting items.\r\nFound by hunting beasts.\r\nCommonly used to make disposable weapons."
+	},
+	{
+		"name": "Toxic Mushroom",
+		"description": "A mushroom covered in toxic mold that grows in rotten lands.\r\nMaterial used for crafting items.\r\n\r\nA skilled hand can repurpose its toxic mold into an effective ward against scarlet rot."
+	},
+	{
+		"name": "Trina's Lily",
+		"description": "A pale purple water lily that is on the verge of wilting.\r\nMaterial used for crafting items.\r\nExceedingly rare to find.\r\nA symbol of faith in St. Trina.\r\nDulls the senses, preventing agitation."
+	},
+	{
+		"name": "Turtle Neck Meat",
+		"description": "A splendid, lengthy cut of turtle neck meat.\r\nMaterial used for crafting items.\r\nTurtle meat is said to boost virility, but none in the Lands Between seem to have much appetite for it these days.\r\nIn Lands Between, the urge to reproduce has waned long ago."
+	},
+	{
+		"name": "Volcanic Stone",
+		"description": "A smoldering roc containing hot gas.\r\nMaterial used for crafting items.\r\nFound on Mt. Gelmir.\r\n\r\nThis hardy species takes root even when frozen solid."
+	},
+	{
+		"name": "Yellow Ember",
+		"description": "An ember taken from an eye socket of a corpse.\r\nMaterial used for crafting items.\r\nA sign that the deceased suffered from the flame of frenzy. This grape has ripened and burst."
+	}
+]
