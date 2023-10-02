@@ -1,4 +1,23 @@
 definitions:
+  dto.NameDescription:
+    properties:
+      description:
+        type: string
+      name:
+        type: string
+    type: object
+  dto.Quantity:
+    properties:
+      quantity:
+        type: integer
+    type: object
+  dto.QuantityMaterialId:
+    properties:
+      materialID:
+        type: integer
+      quantity:
+        type: integer
+    type: object
   gorm.DeletedAt:
     properties:
       time:
@@ -25,6 +44,15 @@ definitions:
         type: array
       updatedAt:
         type: string
+    type: object
+  models.CookBookRecipe:
+    properties:
+      cookBookID:
+        type: integer
+      recipe:
+        $ref: '#/definitions/models.Recipe'
+      recipeID:
+        type: integer
     type: object
   models.Material:
     properties:
@@ -97,7 +125,46 @@ paths:
       summary: Get Cook Books
       tags:
       - Cook Books
+    post:
+      consumes:
+      - application/json
+      description: Create a Cook Book
+      parameters:
+      - description: New Cook Book Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.NameDescription'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: Created
+          schema:
+            $ref: '#/definitions/models.CookBook'
+      summary: Create a Cook Book
+      tags:
+      - Cook Books
   /api/cook_books/{CookBookID}:
+    delete:
+      consumes:
+      - application/json
+      description: Delete a Cook Book by ID
+      parameters:
+      - description: Cook Book ID
+        in: path
+        name: CookBookID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "204":
+          description: No Content
+      summary: Delete a Cook Book
+      tags:
+      - Cook Books
     get:
       consumes:
       - application/json
@@ -118,6 +185,81 @@ paths:
       summary: Get a Cook Book
       tags:
       - Cook Books
+    patch:
+      consumes:
+      - application/json
+      description: Update a Cook Book by ID
+      parameters:
+      - description: Cook Book ID
+        in: path
+        name: CookBookID
+        required: true
+        type: integer
+      - description: Update Cook Book Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.NameDescription'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.CookBook'
+      summary: Update a Cook Book
+      tags:
+      - Cook Books
+  /api/cook_books/{CookBookID}/recipe/{RecipeID}:
+    delete:
+      consumes:
+      - application/json
+      description: Delete a Recipe from Cook Book
+      parameters:
+      - description: Cook Book ID
+        in: path
+        name: CookBookID
+        required: true
+        type: integer
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "204":
+          description: No Content
+      summary: Delete a Cook Book Recipe
+      tags:
+      - Cook Books
+    post:
+      consumes:
+      - application/json
+      description: Adds a Recipe to Cook Book by ID
+      parameters:
+      - description: Cook Book ID
+        in: path
+        name: CookBookID
+        required: true
+        type: integer
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: Created
+          schema:
+            $ref: '#/definitions/models.CookBookRecipe'
+      summary: Create a Cook Book Recipe
+      tags:
+      - Cook Books
   /api/materials:
     get:
       consumes:
@@ -135,7 +277,46 @@ paths:
       summary: Get Materials
       tags:
       - Materials
+    post:
+      consumes:
+      - application/json
+      description: Create a New Material
+      parameters:
+      - description: New Material Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.NameDescription'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: Created
+          schema:
+            $ref: '#/definitions/models.Material'
+      summary: Create Material
+      tags:
+      - Materials
   /api/materials/{MaterialId}:
+    delete:
+      consumes:
+      - application/json
+      description: Delete a Material by ID
+      parameters:
+      - description: Material ID
+        in: path
+        name: MaterialId
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "204":
+          description: No Content
+      summary: Delete a Material
+      tags:
+      - Materials
     get:
       consumes:
       - application/json
@@ -152,10 +333,34 @@ paths:
         "200":
           description: OK
           schema:
-            items:
-              $ref: '#/definitions/models.Material'
-            type: array
+            $ref: '#/definitions/models.Material'
       summary: Get a Material
+      tags:
+      - Materials
+    patch:
+      consumes:
+      - application/json
+      description: Update a Material by ID
+      parameters:
+      - description: Material ID
+        in: path
+        name: MaterialId
+        required: true
+        type: integer
+      - description: Update Material Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.NameDescription'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.Material'
+      summary: Update a Material
       tags:
       - Materials
   /api/recipes:
@@ -175,7 +380,46 @@ paths:
       summary: Get Recipes
       tags:
       - Recipes
+    post:
+      consumes:
+      - application/json
+      description: Create a Recipe
+      parameters:
+      - description: New Recipe Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.NameDescription'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: Created
+          schema:
+            $ref: '#/definitions/models.Recipe'
+      summary: Create a Recipe
+      tags:
+      - Recipes
   /api/recipes/{RecipeID}:
+    delete:
+      consumes:
+      - application/json
+      description: Delete a Recipe by ID
+      parameters:
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "204":
+          description: No Content
+      summary: Delete a Recipe
+      tags:
+      - Recipes
     get:
       consumes:
       - application/json
@@ -192,10 +436,116 @@ paths:
         "200":
           description: OK
           schema:
-            items:
-              $ref: '#/definitions/models.Recipe'
-            type: array
+            $ref: '#/definitions/models.Recipe'
       summary: Get a Recipe
+      tags:
+      - Recipes
+    patch:
+      consumes:
+      - application/json
+      description: Update a Recipe by ID
+      parameters:
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      - description: New Recipe Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.NameDescription'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.Recipe'
+      summary: Update a Recipe
+      tags:
+      - Recipes
+  /api/recipes/{RecipeID}/material:
+    post:
+      consumes:
+      - application/json
+      description: Create a Recipe Material
+      parameters:
+      - description: New Recipe Material Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.QuantityMaterialId'
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: Created
+          schema:
+            $ref: '#/definitions/models.RecipeMaterial'
+      summary: Create a Recipe Material
+      tags:
+      - Recipes
+  /api/recipes/{RecipeID}/material/{MaterialID}:
+    delete:
+      consumes:
+      - application/json
+      description: Delete a Recipe Material
+      parameters:
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      - description: Material ID
+        in: path
+        name: MaterialID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "204":
+          description: No Content
+      summary: Delete a Recipe Material
+      tags:
+      - Recipes
+    patch:
+      consumes:
+      - application/json
+      description: Update a Recipe Material
+      parameters:
+      - description: Update Recipe Material Params
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/dto.Quantity'
+      - description: Recipe ID
+        in: path
+        name: RecipeID
+        required: true
+        type: integer
+      - description: Material ID
+        in: path
+        name: MaterialID
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/models.RecipeMaterial'
+      summary: Update a Recipe Material
       tags:
       - Recipes
 swagger: "2.0"

@@ -39,6 +39,38 @@ const docTemplate = `{
                         }
                     }
                 }
+            },
+            "post": {
+                "description": "Create a Cook Book",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Cook Books"
+                ],
+                "summary": "Create a Cook Book",
+                "parameters": [
+                    {
+                        "description": "New Cook Book Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.NameDescription"
+                        }
+                    }
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Created",
+                        "schema": {
+                            "$ref": "#/definitions/models.CookBook"
+                        }
+                    }
+                }
             }
         },
         "/api/cook_books/{CookBookID}": {
@@ -71,6 +103,145 @@ const docTemplate = `{
                         }
                     }
                 }
+            },
+            "delete": {
+                "description": "Delete a Cook Book by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Cook Books"
+                ],
+                "summary": "Delete a Cook Book",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Cook Book ID",
+                        "name": "CookBookID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "No Content"
+                    }
+                }
+            },
+            "patch": {
+                "description": "Update a Cook Book by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Cook Books"
+                ],
+                "summary": "Update a Cook Book",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Cook Book ID",
+                        "name": "CookBookID",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "description": "Update Cook Book Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.NameDescription"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/models.CookBook"
+                        }
+                    }
+                }
+            }
+        },
+        "/api/cook_books/{CookBookID}/recipe/{RecipeID}": {
+            "post": {
+                "description": "Adds a Recipe to Cook Book by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Cook Books"
+                ],
+                "summary": "Create a Cook Book Recipe",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Cook Book ID",
+                        "name": "CookBookID",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Created",
+                        "schema": {
+                            "$ref": "#/definitions/models.CookBookRecipe"
+                        }
+                    }
+                }
+            },
+            "delete": {
+                "description": "Delete a Recipe from Cook Book",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Cook Books"
+                ],
+                "summary": "Delete a Cook Book Recipe",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Cook Book ID",
+                        "name": "CookBookID",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "No Content"
+                    }
+                }
             }
         },
         "/api/materials": {
@@ -94,6 +265,38 @@ const docTemplate = `{
                             "items": {
                                 "$ref": "#/definitions/models.Material"
                             }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "description": "Create a New Material",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Materials"
+                ],
+                "summary": "Create Material",
+                "parameters": [
+                    {
+                        "description": "New Material Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.NameDescription"
+                        }
+                    }
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Created",
+                        "schema": {
+                            "$ref": "#/definitions/models.Material"
                         }
                     }
                 }
@@ -125,10 +328,73 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "array",
-                            "items": {
-                                "$ref": "#/definitions/models.Material"
-                            }
+                            "$ref": "#/definitions/models.Material"
+                        }
+                    }
+                }
+            },
+            "delete": {
+                "description": "Delete a Material by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Materials"
+                ],
+                "summary": "Delete a Material",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Material ID",
+                        "name": "MaterialId",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "No Content"
+                    }
+                }
+            },
+            "patch": {
+                "description": "Update a Material by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Materials"
+                ],
+                "summary": "Update a Material",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Material ID",
+                        "name": "MaterialId",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "description": "Update Material Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.NameDescription"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/models.Material"
                         }
                     }
                 }
@@ -155,6 +421,38 @@ const docTemplate = `{
                             "items": {
                                 "$ref": "#/definitions/models.Recipe"
                             }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "description": "Create a Recipe",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Recipes"
+                ],
+                "summary": "Create a Recipe",
+                "parameters": [
+                    {
+                        "description": "New Recipe Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.NameDescription"
+                        }
+                    }
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Created",
+                        "schema": {
+                            "$ref": "#/definitions/models.Recipe"
                         }
                     }
                 }
@@ -186,10 +484,196 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "array",
-                            "items": {
-                                "$ref": "#/definitions/models.Recipe"
-                            }
+                            "$ref": "#/definitions/models.Recipe"
+                        }
+                    }
+                }
+            },
+            "delete": {
+                "description": "Delete a Recipe by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Recipes"
+                ],
+                "summary": "Delete a Recipe",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "No Content"
+                    }
+                }
+            },
+            "patch": {
+                "description": "Update a Recipe by ID",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Recipes"
+                ],
+                "summary": "Update a Recipe",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "description": "New Recipe Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.NameDescription"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/models.Recipe"
+                        }
+                    }
+                }
+            }
+        },
+        "/api/recipes/{RecipeID}/material": {
+            "post": {
+                "description": "Create a Recipe Material",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Recipes"
+                ],
+                "summary": "Create a Recipe Material",
+                "parameters": [
+                    {
+                        "description": "New Recipe Material Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.QuantityMaterialId"
+                        }
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Created",
+                        "schema": {
+                            "$ref": "#/definitions/models.RecipeMaterial"
+                        }
+                    }
+                }
+            }
+        },
+        "/api/recipes/{RecipeID}/material/{MaterialID}": {
+            "delete": {
+                "description": "Delete a Recipe Material",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Recipes"
+                ],
+                "summary": "Delete a Recipe Material",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Material ID",
+                        "name": "MaterialID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "No Content"
+                    }
+                }
+            },
+            "patch": {
+                "description": "Update a Recipe Material",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "Recipes"
+                ],
+                "summary": "Update a Recipe Material",
+                "parameters": [
+                    {
+                        "description": "Update Recipe Material Params",
+                        "name": "data",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/dto.Quantity"
+                        }
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Recipe ID",
+                        "name": "RecipeID",
+                        "in": "path",
+                        "required": true
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Material ID",
+                        "name": "MaterialID",
+                        "in": "path",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/models.RecipeMaterial"
                         }
                     }
                 }
@@ -197,6 +681,36 @@ const docTemplate = `{
         }
     },
     "definitions": {
+        "dto.NameDescription": {
+            "type": "object",
+            "properties": {
+                "description": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        },
+        "dto.Quantity": {
+            "type": "object",
+            "properties": {
+                "quantity": {
+                    "type": "integer"
+                }
+            }
+        },
+        "dto.QuantityMaterialId": {
+            "type": "object",
+            "properties": {
+                "materialID": {
+                    "type": "integer"
+                },
+                "quantity": {
+                    "type": "integer"
+                }
+            }
+        },
         "gorm.DeletedAt": {
             "type": "object",
             "properties": {
@@ -235,6 +749,20 @@ const docTemplate = `{
                 },
                 "updatedAt": {
                     "type": "string"
+                }
+            }
+        },
+        "models.CookBookRecipe": {
+            "type": "object",
+            "properties": {
+                "cookBookID": {
+                    "type": "integer"
+                },
+                "recipe": {
+                    "$ref": "#/definitions/models.Recipe"
+                },
+                "recipeID": {
+                    "type": "integer"
                 }
             }
         },

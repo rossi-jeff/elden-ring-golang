@@ -10,6 +10,7 @@ type CookBook struct {
 }
 
 type CookBookRecipe struct {
-	CookBookID uint `gorm:"primaryKey"`
-	RecipeID   uint `gorm:"primaryKey"`
+	CookBookID uint   `gorm:"primaryKey"`
+	RecipeID   uint   `gorm:"primaryKey"`
+	Recipe     Recipe `gorm:"foreignKey:RecipeID"`
 }
